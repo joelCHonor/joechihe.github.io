@@ -1,0 +1,26 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "education.honor.learning.dev",
+      "sha256_cert_fingerprints": [
+        "2D:46:7F:76:42:BD:E7:62:44:64:96:83:4A:6A:73:5B:E8:DF:80:13:9E:C5:A1:23:E7:03:50:5E:5F:26:5C:5C"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "education.honor.learning.propel.dev",
+      "sha256_cert_fingerprints": [
+        "CD:82:90:CA:96:3D:05:23:BA:87:BD:F4:DD:21:74:BC:0C:88:68:8C:E1:0B:10:22:50:6C:68:8C:75:AC:29:5D"
+      ]
+    }
+  }
+]
